@@ -1,0 +1,41 @@
+{
+  "name": "Shapewheel",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.7.16",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@hookform/resolvers": "^3.1.1",
+    "@reduxjs/toolkit": "^1.9.5",
+    "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
+    "daisyui": "^2.51.6",
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0",
+    "graphql": "^16.7.1",
+    "install": "^0.13.0",
+    "next": "13.3.0",
+    "npm": "^9.6.7",
+    "postcss": "8.4.21",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.9",
+    "react-icons": "^4.8.0",
+    "react-phone-number-input": "^3.2.23",
+    "react-redux": "^8.1.1",
+    "tailwindcss": "3.3.1",
+    "yup": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.3.2",
+    "@types/react": "^18.2.14",
+    "typescript": "^5.1.3"
+  }
+}
